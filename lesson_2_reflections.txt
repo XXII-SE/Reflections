@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+it helps me store a copy to refer later in the project
+I need it to track my changes in code
