@@ -1,3 +1,13 @@
 What happens when you initialize a repository? Why do you need to do it?
 it helps me store a copy to refer later in the project
 I need it to track my changes in code
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is a temporary store location for files , it allows systematic comiting of files to Git Repository
+working directory is on the computer itself , repository is on Git ideally stage area is an intermediate 
+Repository : within the cloud 
+Directoty  : within the device
+How can you use the staging area to make sure you have one commit per logical change?
+I can use it to check the diffrenece btn the staging area and repository
+I can also find the difference btn staging area and directory
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when testing a new feature , when making a version of a different language.The branches help keep the original document safe as we tinker with code
